@@ -1,7 +1,7 @@
 Team project
 
 Authors:
-    Jean Staicy  Auma & Delorise Njeri
+    Jean Staicy  Auma & Delorise Njeri Bulemi
 
   Printf  
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm
@@ -57,4 +57,3 @@ Handle the following custom conversion specifier:
                                                                                     
 15. *                                                                               
 All the above options work well together. 
-
