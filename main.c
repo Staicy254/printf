@@ -4,9 +4,10 @@
 
 /**
  * main - Entry point
- *
+ * By: Jean and Delorise
  * Return: Always 0
  */
+
 int main(void)
 {
 int len;
